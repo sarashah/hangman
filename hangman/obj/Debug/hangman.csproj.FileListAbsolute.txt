@@ -1,0 +1,6 @@
+c:\users\sara\documents\visual studio 2013\Projects\hangman\hangman\bin\Debug\hangman.exe.config
+c:\users\sara\documents\visual studio 2013\Projects\hangman\hangman\bin\Debug\hangman.exe
+c:\users\sara\documents\visual studio 2013\Projects\hangman\hangman\bin\Debug\hangman.pdb
+c:\users\sara\documents\visual studio 2013\Projects\hangman\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
+c:\users\sara\documents\visual studio 2013\Projects\hangman\hangman\obj\Debug\hangman.exe
+c:\users\sara\documents\visual studio 2013\Projects\hangman\hangman\obj\Debug\hangman.pdb

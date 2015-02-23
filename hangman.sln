@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hangman", "hangman\hangman.csproj", "{A32727D0-2CA7-439F-8D88-15A51E7C32D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "with_list", "with_list\with_list.csproj", "{4C420600-9634-4C5B-B2D4-29F564A4106E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{E93A72AC-D0EF-4CB3-A664-1A92EF223C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32727D0-2CA7-439F-8D88-15A51E7C32D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32727D0-2CA7-439F-8D88-15A51E7C32D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32727D0-2CA7-439F-8D88-15A51E7C32D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32727D0-2CA7-439F-8D88-15A51E7C32D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C420600-9634-4C5B-B2D4-29F564A4106E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C420600-9634-4C5B-B2D4-29F564A4106E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C420600-9634-4C5B-B2D4-29F564A4106E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C420600-9634-4C5B-B2D4-29F564A4106E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93A72AC-D0EF-4CB3-A664-1A92EF223C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93A72AC-D0EF-4CB3-A664-1A92EF223C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93A72AC-D0EF-4CB3-A664-1A92EF223C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93A72AC-D0EF-4CB3-A664-1A92EF223C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

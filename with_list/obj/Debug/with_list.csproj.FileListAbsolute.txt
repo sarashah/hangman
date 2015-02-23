@@ -1,0 +1,6 @@
+C:\Users\sara\documents\visual studio 2013\Projects\hangman\with_list\bin\Debug\with_list.exe.config
+C:\Users\sara\documents\visual studio 2013\Projects\hangman\with_list\bin\Debug\with_list.exe
+C:\Users\sara\documents\visual studio 2013\Projects\hangman\with_list\bin\Debug\with_list.pdb
+C:\Users\sara\documents\visual studio 2013\Projects\hangman\with_list\obj\Debug\with_list.csprojResolveAssemblyReference.cache
+C:\Users\sara\documents\visual studio 2013\Projects\hangman\with_list\obj\Debug\with_list.exe
+C:\Users\sara\documents\visual studio 2013\Projects\hangman\with_list\obj\Debug\with_list.pdb
